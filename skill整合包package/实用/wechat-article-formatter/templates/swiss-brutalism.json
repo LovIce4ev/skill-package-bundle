@@ -1,0 +1,129 @@
+{
+  "name": "swiss-brutalism",
+  "displayName": "瑞士现代主义 + Neo-Brutalism",
+  "description": "高对比度黑白粉配色，大号粗体数字，几何形状，粗黑边框",
+  "colors": {
+    "primary": "#FFB3BA",
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "textSecondary": "#666666",
+    "border": "#000000",
+    "quoteBg": "#FFB3BA",
+    "photoPlaceholder": "#F5F5F5",
+    "conclusionBg": "#000000",
+    "conclusionText": "#FFFFFF"
+  },
+  "typography": {
+    "fontFamily": "-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif",
+    "mainTitle": {
+      "fontSize": "42px",
+      "fontWeight": "900",
+      "letterSpacing": "-1px",
+      "lineHeight": "1.1",
+      "textTransform": "uppercase",
+      "marginBottom": "30px"
+    },
+    "subtitle": {
+      "fontSize": "16px",
+      "lineHeight": "1.6",
+      "fontWeight": "400",
+      "marginBottom": "80px"
+    },
+    "guestNumber": {
+      "fontSize": "72px",
+      "fontWeight": "900",
+      "color": "#FFB3BA",
+      "lineHeight": "1",
+      "letterSpacing": "-2px",
+      "marginBottom": "20px"
+    },
+    "guestName": {
+      "fontSize": "32px",
+      "fontWeight": "900",
+      "textTransform": "uppercase",
+      "letterSpacing": "-0.5px",
+      "marginBottom": "10px"
+    },
+    "guestTitle": {
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "textTransform": "uppercase",
+      "letterSpacing": "1px",
+      "color": "#666666",
+      "marginBottom": "40px"
+    },
+    "bodyText": {
+      "fontSize": "16px",
+      "lineHeight": "1.7",
+      "fontWeight": "400",
+      "marginBottom": "30px"
+    },
+    "quoteText": {
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "lineHeight": "1.5",
+      "letterSpacing": "-0.3px"
+    }
+  },
+  "layout": {
+    "maxWidth": "677px",
+    "padding": "40px 20px",
+    "sectionMargin": "100px",
+    "dividerMargin": "80px"
+  },
+  "elements": {
+    "badge": {
+      "width": "120px",
+      "height": "120px",
+      "borderRadius": "50%",
+      "background": "#FFB3BA",
+      "border": "3px solid #000",
+      "fontSize": "11px",
+      "fontWeight": "900",
+      "letterSpacing": "2px",
+      "textTransform": "uppercase",
+      "marginBottom": "60px"
+    },
+    "divider": {
+      "width": "100%",
+      "height": "1px",
+      "background": "#000"
+    },
+    "photoBox": {
+      "aspectRatio": "4/3",
+      "background": "#F5F5F5",
+      "border": "3px solid #000",
+      "arrowSize": "48px",
+      "labelBg": "#000",
+      "labelColor": "#FFF",
+      "labelFontSize": "11px",
+      "labelFontWeight": "900",
+      "labelPadding": "8px 16px"
+    },
+    "quoteBlock": {
+      "background": "#FFB3BA",
+      "padding": "40px",
+      "border": "3px solid #000",
+      "margin": "40px 0",
+      "quoteMarkSize": "60px",
+      "quoteMarkOpacity": "0.2"
+    },
+    "conclusionBox": {
+      "background": "#000",
+      "color": "#FFF",
+      "padding": "60px 40px",
+      "border": "3px solid #000",
+      "titleColor": "#FFB3BA"
+    },
+    "tag": {
+      "background": "#FFB3BA",
+      "color": "#000",
+      "padding": "8px 16px",
+      "fontSize": "11px",
+      "fontWeight": "900",
+      "textTransform": "uppercase",
+      "letterSpacing": "1px",
+      "border": "2px solid #000"
+    }
+  }
+}

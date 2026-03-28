@@ -1,0 +1,26 @@
+{
+  "name": "xiaohongshu-publisher",
+  "version": "1.0.0",
+  "description": "小红书图文发布技能包 - 包含选题策划、大纲设计、内容创作、SEO优化和自动发布",
+  "author": "智能虾",
+  "tags": ["xiaohongshu", "social-media", "content-creation", "publishing"],
+  "triggers": [
+    "小红书",
+    "发笔记",
+    "写图文",
+    "爆款标题",
+    "选题",
+    "发布小红书",
+    "小红书运营"
+  ],
+  "capabilities": [
+    "选题策划",
+    "标题生成",
+    "大纲设计",
+    "内容创作",
+    "SEO优化",
+    "发布建议"
+  ],
+  "dependencies": [],
+  "platform": "openclaw"
+}
